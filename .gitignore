@@ -1,3 +1,11 @@
+llm-sc
+llm-sc.bib
+llm-sc.pdf
+llm-sc.py
+llm-sc.tex
+ltxobj/
+didactic.sty
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
